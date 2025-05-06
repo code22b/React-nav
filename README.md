@@ -1,2 +1,2 @@
 # React-nav
-React navigacija
+React-responsive navigacijska traka
